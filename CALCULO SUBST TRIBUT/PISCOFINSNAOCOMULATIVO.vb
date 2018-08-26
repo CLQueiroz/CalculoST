@@ -1,0 +1,3 @@
+﻿Public Class PISCOFINSNAOCOMULATIVO
+
+End Class

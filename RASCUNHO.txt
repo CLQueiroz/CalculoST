@@ -1,0 +1,51 @@
+maragajakiara579
+
+labelVTPS.Text = labelVTP.Text
+labelVIPIS.Text = labelVIPI.Text
+labelVBICMSS.Text = IB
+labelVICMSS.Text = labelVICMS.Text
+labelBCSTS.Text = labelBCST.Text
+labelVICMSSTS.Text = labelVICMSST.Text
+labelVTNFCSTS.Text = labelVTNFCST.Text
+
+
+txtQtde.Clear()
+        txtVU.Clear()
+        txtRB.Clear()
+        txtAI.Clear()
+        txtIB.Clear()
+        txtAINF.Clear()
+        txtAIST.Clear()
+        txtIB.Clear()
+        txtIST.Clear()
+        txtQtde.Focus()
+        labelBCST.Text = ""
+        labelVBICMS.Text = ""
+        labelVICMS.Text = ""
+        labelVICMSST.Text = ""
+        labelVIPI.Text = ""
+        labelVTNFCST.Text = ""
+        labelVTP.Text = ""
+ labelVBICMSS.Text = ""
+        labelVICMSS.Text = ""
+        labelVICMSSTS.Text = ""
+        labelVIPIS.Text = ""
+        labelVTNFCSTS.Text = ""
+        labelVTPS.Text = ""
+
+labelVTPS.Text = R.
+RTVPS, RVIPIS, RVBICMSS, RBCSTS, RCVICMSSTS, RTDNCSTS
+
+
+    Public Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        Dim RTVPS, RVIPIS, RVBICMSS, RBCSTS, RCVICMSSTS, RTDNCSTS As Double
+
+        RTVPS = RTVPS + RTVP
+
+        labelVIPIS.Text = Val(labelVIPIS.Text) + Val(labelVIPI.Text)
+        labelVBICMSS.Text = Val(labelVBICMSS.Text) + Val(labelVBICMS.Text)
+        labelVICMSS.Text = Val(labelVICMSS.Text) + Val(labelVICMS.Text)
+        labelBCSTS.Text = Val(labelBCSTS.Text) + Val(labelBCST.Text)
+        labelVICMSSTS.Text = Val(labelVICMSSTS.Text) + Val(labelVICMSST.Text)
+        labelVTNFCSTS.Text = Val(labelVTNFCSTS.Text) + Val(labelVTNFCST.Text)
+    End Sub

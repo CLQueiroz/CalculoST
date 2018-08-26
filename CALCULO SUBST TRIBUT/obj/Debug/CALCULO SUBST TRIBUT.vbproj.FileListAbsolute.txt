@@ -1,0 +1,133 @@
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.GenerateResource.Cache
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResolveAssemblyReference.cache
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource.read.1.tlog
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource.write.1.tlog
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.application
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.pdb
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.xml
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.application
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.application
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.pdb
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.xml
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResolveAssemblyReference.cache
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource.read.1.tlog
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResGen.read.1.tlog
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource.write.1.tlog
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResGen.write.1.tlog
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+E:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.application
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.application
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.pdb
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.xml
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.application
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.application
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.pdb
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.xml
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResGen.read.1.tlog
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResGen.write.1.tlog
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+D:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.application
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResolveAssemblyReference.cache
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource.read.1.tlog
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource-ResGen.read.1.tlog
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResGen.read.1.tlog
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource.write.1.tlog
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\GenerateResource-ResGen.write.1.tlog
+F:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\ResGen.write.1.tlog
+H:\Faculdade\VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.PISCOFINSNAOCOMULATIVO.resources
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.application
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.pdb
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.xml
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.PISCOFINSNAOCOMULATIVO.resources
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.GenerateResource.Cache
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+C:\Users\Peterson\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.application
+F:\BACKUP\MAQUINA CTPI\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+F:\BACKUP\MAQUINA CTPI\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+F:\BACKUP\MAQUINA CTPI\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+F:\BACKUP\MAQUINA CTPI\SkyDrive\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.config
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.application
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.exe
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.pdb
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\bin\Debug\Cálculo SubstituiçãoTributária.xml
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.PISCOFINSNAOCOMULATIVO.resources
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.GenerateResource.Cache
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe.manifest
+W:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.application
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbprojAssemblyReference.cache
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.PISCOFINSNAOCOMULATIVO.resources
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.GenerateResource.cache
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.CoreCompileInputs.cache
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+D:\Projetos\Programas VB\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbprojAssemblyReference.cache
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Form1.resources
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.PISCOFINSNAOCOMULATIVO.resources
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Resources.resources
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Peterson.Sobre.resources
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.GenerateResource.cache
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\CALCULO SUBST TRIBUT.vbproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.exe
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.xml
+D:\Desenvolvimento\C#\Projetos\CALCULO SUBST TRIBUT (visual Basic)\CALCULO SUBST TRIBUT\CALCULO SUBST TRIBUT\obj\Debug\Cálculo SubstituiçãoTributária.pdb
